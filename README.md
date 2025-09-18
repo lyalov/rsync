@@ -15,7 +15,7 @@
 rsync -avc --delete --exclude='.*' /home/$USER/ /tmp/backup/
 ```
 Папка  /home/$USER/ 
-у меня состоит  из папок с папками с . (точкой) в начале названия.
+у меня состоит  папки  с . (точкой) в начале названия.
 
 
 ```bash lyalov@RedFox:/mnt/d/gitlab/rsync$ ls -lah /home/$USER/
