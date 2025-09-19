@@ -99,9 +99,6 @@ lyalov@RedFox:/mnt/d/gitlab/rsync$
 Ключ в команде -с считывает хеш суммы , и даже повторное выполнение ничего не копирует , но хеш сумму перечитывает
 
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
-
-
 ОТВЕТ 2
 Скрипт 
 
@@ -158,4 +155,5 @@ backup_home.sh
 sent 1,429 bytes  received 61 bytes  2,980.00 bytes/sec
 total size is 1,167  speedup is 0.78
 Fri Sep 19 04:10:36 PM MSK 2025 - Backup completed successfully
+
 ```
